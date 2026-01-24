@@ -17,7 +17,7 @@ public class CourseRegistration {
   
  }
  
- public void setSemester(int semester0) {
+ public void setSemester(int semester) {
   this.semester = semester;
  }
  

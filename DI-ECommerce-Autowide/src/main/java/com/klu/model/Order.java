@@ -14,8 +14,8 @@ public class Order {
  
  @Autowired
  public Order() {
-	 this.orderId=2004;
-	 this.customerName="Amar";
+	 this.orderId=102;
+	 this.customerName="Ashu_Kumar";
 	 this.quantity=5;
  }
  
@@ -30,6 +30,4 @@ public class Order {
 	System.out.println("ProductPrice: "+product.getPrice());
 	System.out.println("ProductCategory: "+product.getCategory());
  }
-
- 
 }

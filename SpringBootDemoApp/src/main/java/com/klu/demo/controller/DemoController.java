@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.*;
 public class DemoController {
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Spring Boot Demo Application";
+		return "Ashu Kumar";
 	}
 }
 
